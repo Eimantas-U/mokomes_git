@@ -2,7 +2,7 @@
 
  
 # Tėvų surašymas (reikia pakeisti kad būtų kaip per genetikos pratybas)
-P1 = ['bb++', '++ee']
+P1 = ['LL++', '++ee']
 
 # Visų genotipų surašymas (atmetant besidvigubinančius genotipus)
 G1 = list(set([
